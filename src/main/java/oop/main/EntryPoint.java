@@ -1,16 +1,16 @@
-package udemy.main;
+package oop.main;
 
 
 import java.util.ArrayList;
 import java.util.List;
 
-import udemy.clases.Client;
-import udemy.clases.GeometricFigure;
-import udemy.clases.IAccess;
-import udemy.clases.Oracle;
-import udemy.clases.Person;
-import udemy.clases.Rectangle;
-import udemy.clases.SQL;
+import oop.clases.Client;
+import oop.clases.GeometricFigure;
+import oop.clases.IAccess;
+import oop.clases.Oracle;
+import oop.clases.Person;
+import oop.clases.Rectangle;
+import oop.clases.SQL;
 
 public class EntryPoint {
 

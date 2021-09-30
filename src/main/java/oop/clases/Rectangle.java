@@ -1,4 +1,4 @@
-package udemy.clases;
+package oop.clases;
 
 public class Rectangle extends GeometricFigure{
 	

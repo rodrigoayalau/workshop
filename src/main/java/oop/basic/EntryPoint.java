@@ -1,4 +1,4 @@
-package udemy.basic;
+package oop.basic;
 
 public class EntryPoint {
 

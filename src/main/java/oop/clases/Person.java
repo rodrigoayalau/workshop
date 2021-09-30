@@ -1,8 +1,5 @@
-package udemy.clases;
+package oop.clases;
 
-
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 
 public class Person {
 	// Attributes

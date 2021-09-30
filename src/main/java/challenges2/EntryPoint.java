@@ -1,6 +1,6 @@
 package challenges2;
 
-public class EntryPoint1 {
+public class EntryPoint {
 
     public static void main(String[] args) {
         ParentClass padre = new ParentClass("Ayala");
