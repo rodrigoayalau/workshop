@@ -11,12 +11,12 @@ import static org.testng.Assert.assertTrue;
 
 public class FirstChallenge {
     int theNumber;
-    Integer[] myArray = { 4, 3, 3, 3, 2, 2, 2 };
+    Integer[] myArray = { 0,1,2,3,4,5,6,7,8,9 };
     Object[] myArrayEmpty = {};
 
     @BeforeMethod
     public void initialiazer() {
-        theNumber = 1;
+        theNumber = 5;
     }
 
     /*
